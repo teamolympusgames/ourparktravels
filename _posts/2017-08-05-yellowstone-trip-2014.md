@@ -7,6 +7,7 @@ header:
 categories:
   - national parks  
 tags:
+  - featured
   - national parks
   - yellowstone
   - wyoming
