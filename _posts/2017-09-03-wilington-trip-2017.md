@@ -3,7 +3,7 @@ title:  "Wilmington Trip Labor Day Weekend 2017"
 date:   2017-09-03
 excerpt: "Wrightsville Beach and Battleship North Carolina"
 header:
-  teaser: "/assets/images/Wilmington/wilmington-riverfront-park-battleship-nc.jpg"
+  teaser: "/assets/images/wilmington/wilmington-riverfront-park-battleship-nc.jpg"
 categories:
   - vacations
 tags:
