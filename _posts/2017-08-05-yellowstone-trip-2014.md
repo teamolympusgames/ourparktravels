@@ -57,3 +57,46 @@ After a few hours in Grand Teton, we headed on to Jackson, Wyoming. We took a wh
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/yellowstone/jackson-mad-river-whitewater-snake-river.jpg){: .align-center}
 
 This was the first whitewater trip for our kids, then aged 10 and 8. As always when scheduling any "adventure" type activity with children, we made sure they met the age, height, and weight requirements before booking. The trip was fantastic, with several stretches of class 4 rapids.
+
+## Trip Summary
+Here's a rundown of the places we stayed an sights we took in:
+
+
+### Yellowstone: Day 1
+* Norris Geyser Basin
+* Grand Canyon: Brink of Lower Falls
+* Grand Canyon South Rim hikes: Lookout Point, Grand View, Inspiration Point
+* Stayed at Canyon Lodge Western Cabin
+
+### Yellowstone: Day 2
+* Drove through Lamar Valley at sunrise: amazing wildlife everywhere!
+* **We had planned to hike Mount Washburn but the trail was closed dure to snow**
+* Mammoth Hot Springs terrace loop hikes
+* Wraith Falls hike
+* Lava Creek to Undine Falls hike
+* Stayed at Canyon Lodge Western Cabin
+
+### Yellowstone: Day 3
+* Yellowstone Lake hikes
+* Elephant Back Trail: 3 mile loop, with lots of snow at the summit
+* West Thumb
+* Dinner at Old Faithful Inn: excellent buffet!
+* Stayed at Old Faithful Inn (note: shared bathroom facilities!)
+
+### Yellowstone: Day 4
+* Old Faithful!
+* Upper Geyser Basin hike (3 miles)
+* Fountain Paint Pots
+* Grand Prismatic Spring – hiked from Fairy Falls up unofficial trail on hillside to get view
+from above
+* Stayed at Old Faithful Inn (note: shared bathroom facilities!)
+
+### Grand Tetons/Jackson: Day 1
+* Jenny Lake boat shuttle and hikes to Hidden Falls and Inspiration Point from South Jenny
+Lake boat dock – caught an early Ranger led hike that was wonderful
+* Stayed at Cowboy Village Log Cabin Resort
+
+### Grand Tetons/Jackson: Day 2
+* Mad River Boat Trips – The Classic Snake River Whitewater Trip
+* Jackson Hole Aerial Tram and Gondola Rides
+* Stayed at Cowboy Village Log Cabin Resort
