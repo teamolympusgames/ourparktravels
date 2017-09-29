@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Our Park Travels"
 title_separator          : "-"
-name                     : "Angela Alford"
+name                     : ""
 description              : "How to get the most from your National Park visit"
 url                      : "http://www.ourparktravels.com/"
 baseurl                  : # the subpath of your site, e.g. "/blog"

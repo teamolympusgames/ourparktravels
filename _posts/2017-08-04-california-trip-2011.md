@@ -5,7 +5,7 @@ excerpt: "Joshua Tree and Sequoia."
 header:
   teaser: "/assets/images/california/pioneer-town.jpg"
 categories:
-  - national parks  
+  - national-parks  
 tags:
   - national parks
   - california

@@ -5,7 +5,7 @@ excerpt: "Yellowstone and Grand Teton."
 header:
   teaser: "/assets/images/yellowstone/grand-tetons-national-park-jenny-lake.jpg"
 categories:
-  - national parks  
+  - national-parks  
 tags:
   - featured
   - national parks
@@ -59,7 +59,7 @@ After a few hours in Grand Teton, we headed on to Jackson, Wyoming. We took a wh
 This was the first whitewater trip for our kids, then aged 10 and 8. As always when scheduling any "adventure" type activity with children, we made sure they met the age, height, and weight requirements before booking. The trip was fantastic, with several stretches of class 4 rapids.
 
 ## Trip Summary
-Here's a rundown of the places we stayed an sights we took in:
+Here's a rundown of the places we stayed and the sights we took in:
 
 
 ### Yellowstone: Day 1
