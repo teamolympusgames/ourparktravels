@@ -59,7 +59,7 @@ In particular, the Hall of Mosses trail (1 mile) and Spruce Nature Trail (1.25 m
 ### 5. Forks
 If you or any member of your family are fans of the *Twilight* series of movies and books, you simply can't drive through the town of Forks without taking some pics!
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/washington/washington-olympic-sea-kayak.jpg" alt="Sea Kayak Tour">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/washington/washington-olympic-peninsual-forks-twilight.jpg" alt="Vampires!">
 </figure>
 
 
