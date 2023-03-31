@@ -30,8 +30,8 @@ From Gold Spike we drove north into Idaho, then on to Yellowstone.
 This park truly has some treasures. Everyone knows about Old Faithful, of course. It's definitely one of the busiest spots at the park. Unfortunately, parking can be a challenge, especially at some of the other popular spots such as the Falls of the Yellowstone River and at Grand Prismatic Spring.
 
 <figure class="half">
-	<img src="/assets/images/yellowstone/yellowstone-national-old-faithful.jpg">
-	<img src="/assets/images/yellowstone/yellowstone-national-park-lower-falls.jpg">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/yellowstone/yellowstone-national-old-faithful.jpg">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/yellowstone/yellowstone-national-park-lower-falls.jpg">
 </figure>
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/yellowstone/yellowstone-national-park-grand-prismatic-spring.jpg){: .align-center}
